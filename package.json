@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "vite": "latest"
+    "npm": "install"
+    "npm": "start"
   },
   "devDependencies": {}
 }
